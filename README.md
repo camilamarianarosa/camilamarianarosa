@@ -26,10 +26,8 @@ Atualmente, me desenvolvo em análise espacial, modelagem ambiental e R para dad
 
 ## 📂 Projetos
 Aqui você encontra meus códigos e estudos envolvendo:
-- Tratamento de dados ambientais  
-- Análises espaciais  
-- Visualização de dados  
-- Scripts em R aplicados ao contexto costeiro e ambiental  
+
+https://github.com/camilamarianarosa/geoquimica-ambiental-analise-estatistica-R.git
 
 
 ## 📫 Contato
