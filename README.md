@@ -27,8 +27,9 @@ Atualmente, me desenvolvo em análise espacial, modelagem ambiental e R para dad
 ## 📂 Projetos
 Aqui você encontra meus códigos e estudos envolvendo:
 
-https://github.com/camilamarianarosa/geoquimica-ambiental-analise-estatistica-R.git
-
+- Comparação entre areas (Controle x Impactada): https://github.com/camilamarianarosa/analise_estatistica_geoambiental_areas_local.git
+- Uso do solo x Qualidade da água: https://github.com/camilamarianarosa/Analise_Qualidade_Agua_Uso_Solo.git
+- Mapeamento de vulnerabilidade ambiental da Baia de Sepetiba: https://github.com/camilamarianarosa/Mapeamento-de-Vulnerabilidade-Ambiental-Ba-a-de-Sepetiba.git
 
 ## 📫 Contato
 - LinkedIn: www.linkedin.com/in/camila-neri-oceanografia
