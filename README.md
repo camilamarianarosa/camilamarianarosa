@@ -1,41 +1,57 @@
-## Oi, eu sou Camila 👋
+👋 Oi, eu sou a Camila
 
-Sou graduanda em Oceanografia (UERJ) com foco em Geoprocessamento (GIS), Análise Ambiental e Tratamento de Dados.  
-Atualmente, me desenvolvo em análise espacial, modelagem ambiental e R para dados ambientais, com forte interesse em Risco Ambiental e, futuramente, Risco Climático.
+Graduanda em Oceanografia (UERJ) com foco em Geoprocessamento (GIS), Análise Ambiental e Tratamento de Dados. Atualmente, me desenvolvo em análise espacial, modelagem ambiental e R para dados ambientais, com forte interesse em Risco Ambiental e, futuramente, Risco Climático.
 
-## 🌍 Áreas de Interesse
-- Risco Ambiental  
-- Risco Climático e Adaptação  
-- Análise Ambiental e Costeira  
-- Geoprocessamento & Sensoriamento Remoto  
-- Modelagem e análise de dados ambientais  
+🌍 Áreas de Interesse
 
+- Risco Ambiental
 
-## 🛠️ Tecnologias & Ferramentas
-- R (Intermediário) – análise de dados ambientais, tratamento, visualização 
-- QGIS (Intermediário) – análise espacial, processamento de camadas, layouts  
-- Python (Iniciante) – análise de dados e rotinas para GIS  
-- Git/GitHub – versionamento e organização de projetos  
+- Risco Climático e Adaptação
+
+- Análise Ambiental e Costeira
+
+- Geoprocessamento & Sensoriamento Remoto
+
+- Modelagem e análise de dados ambientais
+
+🛠️ Tecnologias
+
+- R (intermediário): análise, tratamento e visualização de dados ambientais
+
+- QGIS (intermediário): análise espacial, processamento e layouts
+
+- Python (iniciante): rotinas básicas de análise de dados
+
+- Git/GitHub: versionamento e organização
+
 - Pacotes: tidyverse, ggplot2, sf, raster, terra, shiny (iniciante)
 
-## 📚 Atualmente aprendendo
-- Análise espacial avançada (R + QGIS)  
-- Indicadores e métricas de risco ambiental  
-- Fundamentos de risco climático e adaptação  
-- Estruturas de dados e boas práticas em ciência de dados ambiental  
+📚 Atualmente estudando
 
-## 📂 Projetos
-Aqui você encontra meus códigos e estudos envolvendo:
+- Análise espacial avançada (R + QGIS)
 
-- Comparação entre areas (Controle x Impactada): https://github.com/camilamarianarosa/analise_estatistica_geoambiental_areas_local.git
-- Uso do solo x Qualidade da água: https://github.com/camilamarianarosa/Analise_Qualidade_Agua_Uso_Solo.git
-- Mapeamento de vulnerabilidade ambiental da Baia de Sepetiba: https://github.com/camilamarianarosa/Mapeamento-de-Vulnerabilidade-Ambiental-Ba-a-de-Sepetiba.git
+- Indicadores e métricas de risco ambiental
 
-## 📫 Contato
-- LinkedIn: www.linkedin.com/in/camila-neri-oceanografia
-- E-mail: camilamarianarosa@gmail.com
+- Fundamentos de risco climático e adaptação
 
+- Boas práticas em ciência de dados ambiental
+
+📂 Projetos
+
+Comparação entre áreas (Controle x Impactada)
+https://github.com/camilamarianarosa/analise_estatistica_geoambiental_areas_local.git
+
+Uso do solo x Qualidade da água
+https://github.com/camilamarianarosa/Analise_Qualidade_Agua_Uso_Solo.git
+
+Mapeamento de vulnerabilidade ambiental da Baía de Sepetiba
+https://github.com/camilamarianarosa/Mapeamento-de-Vulnerabilidade-Ambiental-Ba-a-de-Sepetiba.git
+
+📫 Contato
+
+LinkedIn: linkedin.com/in/camila-neri-oceanografia
+E-mail: camilamarianarosa@gmail.com
+
+Sempre aberta a oportunidades e colaborações em dados ambientais, risco ambiental e geoprocessamento.
 ---
 
-### Obrigada por visitar meu perfil!  
-Sempre aberta a oportunidades e colaborações na área de **dados ambientais, risco ambiental e geoprocessamento**.
