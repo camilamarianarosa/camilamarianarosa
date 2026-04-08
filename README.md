@@ -16,15 +16,15 @@ Graduanda em Oceanografia (UERJ) com foco em Geoprocessamento (GIS), Análise Am
 
 🛠️ Tecnologias
 
-- R (intermediário): análise, tratamento e visualização de dados ambientais
+- ## 🛠️ Tecnologias
 
-- QGIS (intermediário): análise espacial, processamento e layouts
-
-- Python (iniciante): rotinas básicas de análise de dados
-
-- Git/GitHub: versionamento e organização
-
-- Pacotes: tidyverse, ggplot2, sf, raster, terra, shiny (iniciante)
+- **ArcGIS Pro (intermediário):** análises 3D, processamento raster, junção de tabelas, cálculo de campo, Living Atlas, publicação de web scenes
+- **ArcGIS Online:** web scenes 3D interativas
+- **QGIS (intermediário):** buffers, interseções, classificação temática, layout cartográfico
+- **R (intermediário):** estatística ambiental, visualização, tidyverse, sf, ggplot2
+- **Python (iniciante):** QA/QC de séries temporais (QARTOD)
+- **Hypack:** ecobatimetria
+- **Git/GitHub:** versionamento
 
 📚 Atualmente estudando
 
