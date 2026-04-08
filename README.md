@@ -53,6 +53,9 @@ https://github.com/camilamarianarosa/An-lise-de-Risco-de-Inunda-o-por-Eleva-o-do
 Análise de Desmatamento – Rondônia 1992-2020 (ArcGIS Pro)
 https://github.com/camilamarianarosa/camilamarianarosa-An-lise-de-Desmatamento-Rond-nia-1992-2020-ArcGIS-Pro-.git
 
+Previsão de Aptidão para Cultivo de Milho na África – Mudanças Climáticas (ArcGIS Pro)
+https://github.com/camilamarianarosa/Previs-o-de-Aptid-o-para-Cultivo-de-Milho-na-frica-Mudan-as-Clim-ticas-ArcGIS-Pro-.git
+
 📫 Contato
 
 LinkedIn: linkedin.com/in/camila-neri-oceanografia
