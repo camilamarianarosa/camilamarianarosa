@@ -38,14 +38,17 @@ Graduanda em Oceanografia (UERJ) com foco em Geoprocessamento (GIS), Análise Am
 
 📂 Projetos
 
-Comparação entre áreas (Controle x Impactada)
-https://github.com/camilamarianarosa/analise_estatistica_geoambiental_areas_local.git
+Modelagem Geoquímica Ambiental (R)
+[https://github.com/camilamarianarosa/analise_estatistica_geoambiental_areas_local.git](https://github.com/camilamarianarosa/Modelagem-Geoqu-mica-Ambiental-R-)
 
-Uso do solo x Qualidade da água
-https://github.com/camilamarianarosa/Analise_Qualidade_Agua_Uso_Solo.git
+Modelagem de Variabilidade Ambiental e Uso do Solo (R)
+[https://github.com/camilamarianarosa/Analise_Qualidade_Agua_Uso_Solo.git](https://github.com/camilamarianarosa/Modelagem-de-Variabilidade-Ambiental-e-Uso-do-Solo-R-)
 
 Mapeamento de vulnerabilidade ambiental da Baía de Sepetiba
 https://github.com/camilamarianarosa/Mapeamento-de-Vulnerabilidade-Ambiental-Ba-a-de-Sepetiba.git
+
+Análise de Risco de Inundação por Elevação do Nível do Mar – Miami Beach (ArcGIS Pro)
+https://github.com/camilamarianarosa/An-lise-de-Risco-de-Inunda-o-por-Eleva-o-do-N-vel-do-Mar-Miami-Beach-ArcGIS-Pro-
 
 📫 Contato
 
