@@ -50,6 +50,9 @@ https://github.com/camilamarianarosa/Mapeamento-de-Vulnerabilidade-Ambiental-Ba-
 Análise de Risco de Inundação por Elevação do Nível do Mar – Miami Beach (ArcGIS Pro)
 https://github.com/camilamarianarosa/An-lise-de-Risco-de-Inunda-o-por-Eleva-o-do-N-vel-do-Mar-Miami-Beach-ArcGIS-Pro-
 
+Análise de Desmatamento – Rondônia 1992-2020 (ArcGIS Pro)
+https://github.com/camilamarianarosa/camilamarianarosa-An-lise-de-Desmatamento-Rond-nia-1992-2020-ArcGIS-Pro-.git
+
 📫 Contato
 
 LinkedIn: linkedin.com/in/camila-neri-oceanografia
