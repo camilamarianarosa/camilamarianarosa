@@ -56,6 +56,9 @@ https://github.com/camilamarianarosa/camilamarianarosa-An-lise-de-Desmatamento-R
 Previsão de Aptidão para Cultivo de Milho na África – Mudanças Climáticas (ArcGIS Pro)
 https://github.com/camilamarianarosa/Previs-o-de-Aptid-o-para-Cultivo-de-Milho-na-frica-Mudan-as-Clim-ticas-ArcGIS-Pro-.git
 
+ Índice de Risco de Calor Urbano (Heat Risk Index) — Atenas, Grécia
+ https://github.com/camilamarianarosa/-Indice-de-Risco-de-Calor-Urbano-Heat-Risk-Index-Atenas-Gr-cia.git
+
 📫 Contato
 
 LinkedIn: linkedin.com/in/camila-neri-oceanografia
