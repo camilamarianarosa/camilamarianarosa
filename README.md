@@ -44,6 +44,9 @@ Modelagem Geoquímica Ambiental (R)
 Modelagem de Variabilidade Ambiental e Uso do Solo (R)
 [https://github.com/camilamarianarosa/Analise_Qualidade_Agua_Uso_Solo.git](https://github.com/camilamarianarosa/Modelagem-de-Variabilidade-Ambiental-e-Uso-do-Solo-R-)
 
+Limpeza e análise de dados oceanográficos da Boia de Santos (PNBOIA) e da estação INMET de Arraial do Cabo (Python)
+https://github.com/camilamarianarosa/Limpeza-e-an-lise-explorat-ria-de-dados-oceanogr-ficos.git
+
 Mapeamento de vulnerabilidade ambiental da Baía de Sepetiba
 https://github.com/camilamarianarosa/Mapeamento-de-Vulnerabilidade-Ambiental-Ba-a-de-Sepetiba.git
 
