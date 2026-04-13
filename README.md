@@ -47,6 +47,9 @@ Modelagem de Variabilidade Ambiental e Uso do Solo (R)
 Limpeza e análise de dados oceanográficos da Boia de Santos (PNBOIA) e da estação INMET de Arraial do Cabo (Python)
 https://github.com/camilamarianarosa/Limpeza-e-an-lise-explorat-ria-de-dados-oceanogr-ficos.git
 
+Plotes Básicos e Estatísticas com Matplotlib
+https://github.com/camilamarianarosa/An-lise-de-Dados-Oceanogr-ficos-e-Meteorol-gicos.git
+
 Mapeamento de vulnerabilidade ambiental da Baía de Sepetiba
 https://github.com/camilamarianarosa/Mapeamento-de-Vulnerabilidade-Ambiental-Ba-a-de-Sepetiba.git
 
