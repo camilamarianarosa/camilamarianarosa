@@ -22,7 +22,7 @@ Graduanda em Oceanografia (UERJ) com foco em Geoprocessamento (GIS), Análise Am
 - **ArcGIS Online:** web scenes 3D interativas
 - **QGIS (intermediário):** buffers, interseções, classificação temática, layout cartográfico
 - **R (intermediário):** estatística ambiental, visualização, tidyverse, sf, ggplot2
-- **Python (iniciante):** QA/QC de séries temporais (QARTOD)
+- **Python (Intermediário):** QA/QC de séries temporais (QARTOD)
 - **Hypack:** ecobatimetria
 - **Git/GitHub:** versionamento
 
